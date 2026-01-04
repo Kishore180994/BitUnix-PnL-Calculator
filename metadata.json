@@ -1,0 +1,5 @@
+{
+  "name": "BitUnix PnL Calculator",
+  "description": "A comprehensive dashboard for visualizing cryptocurrency transaction history, including PnL analysis, fee tracking, and asset distribution.",
+  "requestFramePermissions": []
+}
